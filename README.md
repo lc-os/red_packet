@@ -4,5 +4,5 @@
 
 ## 实现效果图
 
-[拆红包]()
+[拆红包](https://github.com/LCOSGit/red_packet/blob/master/QQ20190516-141902-HD.gif)
 
