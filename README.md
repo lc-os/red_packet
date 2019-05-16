@@ -1,16 +1,8 @@
-# red_packet_demo
+# Flutter仿微信红包动画
 
-A new Flutter project.
+不上gif图都都是假的程序员！！！
 
-## Getting Started
+## 实现效果图
 
-This project is a starting point for a Flutter application.
+[拆红包]()
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
